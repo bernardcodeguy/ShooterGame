@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a329491-5697-439f-be17-332bf272d923" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fx/games/shootergame/FirstController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fx/games/shootergame/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fx/games/shootergame/GameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fx/games/shootergame/GameOverController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fx/games/shootergame/GoldDragon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fx/games/shootergame/ImageViewSprite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fx/games/shootergame/RedDragon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/Dragon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/DragonAttack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/DragonInDarkness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/background.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/background_music.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/evil_empire.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/fall.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/fire.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/fire1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/fire2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/fire_main.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/first.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/flying_dragon-gold (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/game.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/game_over.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/game_over.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/gold_dragon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/hit.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/in_game.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/red_dragon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/reddragonfly (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/reddragonfly.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/select.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/shoot.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/shoot.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/shootergame/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PNTGWNWJX3ctx3OVn5e9t4yB0T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_directory_selection": "C:/Users/Bern Ard/Downloads/Compressed/Super-Mario-Mini-master/ShooterGame/src/main/java/fx/games",
+    "last_opened_file_path": "C:/Users/Bern Ard/IdeaProjects/ShooterGame/src/main/java/fx/games/shootergame"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bern Ard\IdeaProjects\ShooterGame\src\main\java\fx\games\shootergame" />
+      <recent name="C:\Users\Bern Ard\Downloads\Compressed\Super-Mario-Mini-master\ShooterGame\src\main\resources\fx\games\shootergame" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Bern Ard\IdeaProjects\ShooterGame\src\main\resources\fx\games\shootergame" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="fx.games.shootergame" />
+      <recent name="fx.games" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fx.games.shootergame" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fx.games.shootergame.Game" />
+      <module name="ShooterGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fx.games.shootergame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a329491-5697-439f-be17-332bf272d923" name="Changes" comment="" />
+      <created>1683296444833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683296444833</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

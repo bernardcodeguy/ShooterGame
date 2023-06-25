@@ -1,0 +1,14 @@
+.board{
+    -fx-background-image: url("back.jpg");
+    -fx-background-size: cover;
+}
+
+.button{
+    -fx-background-color : rgba(163,146,212,0.5);
+}
+
+
+.button:hover{
+
+    -fx-background-color : rgba(163,146,212,0.8);
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane fx:id="pane" maxHeight="800.0" maxWidth="800.0" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="600.0" styleClass="board" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="fx.games.shootergame.GameController">
+   <children>
+      <ProgressBar fx:id="playerHealth" layoutX="41.0" layoutY="5.0" prefHeight="18.0" prefWidth="116.0" progress="1.0" />
+      <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@flying_dragon-gold%20(2).png" />
+         </image>
+      </ImageView>
+      <ProgressBar fx:id="villainHealth" layoutX="441.0" layoutY="5.0" prefHeight="18.0" prefWidth="116.0" progress="1.0" />
+      <ImageView fitHeight="30.0" fitWidth="30.0" layoutX="567.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@reddragonfly.png" />
+         </image>
+      </ImageView>
+   </children>
+</Pane>
